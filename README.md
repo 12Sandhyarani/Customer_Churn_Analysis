@@ -45,7 +45,7 @@ Python · pandas · scikit-learn · XGBoost · matplotlib · seaborn
 
 ## Project Structure
 ```
-churn_project/
+Customer_Churn_Analysis/
 ├── data/               # raw and cleaned datasets
 ├── notebooks/          # analysis scripts (cleaning, EDA, modeling)
 ├── images/             # generated charts
